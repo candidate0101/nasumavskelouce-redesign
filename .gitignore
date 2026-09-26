@@ -1,0 +1,10 @@
+# Local captures and source snapshots
+source*.html
+*.png
+
+# macOS
+.DS_Store
+
+# Editor files
+.vscode/
+.idea/
